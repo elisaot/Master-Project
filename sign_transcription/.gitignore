@@ -1,4 +1,5 @@
 signdict_examples/
+experiment/
 venv/
 __pycache__/
 *.pyc
