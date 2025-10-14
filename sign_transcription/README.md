@@ -8,6 +8,8 @@ This project utilizes pose-format(https://github.com/sign-language-processing/po
 
 ## Requirements
 
+pip install mediapipe==0.10.5
+
 ### Installation 
 
 ```bash
