@@ -1,7 +1,4 @@
-experiment
-data/
-clips/*.mp4
-scraping.log
+sgn69.db
 venv/
 __pycache__/
 *.pyc
