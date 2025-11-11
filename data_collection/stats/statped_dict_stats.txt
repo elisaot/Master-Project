@@ -1,0 +1,5 @@
+Video Duration Statistics (seconds):
+Number of videos: 9027
+Minimum duration: 0.40
+Maximum duration: 4.68
+Average duration: 2.11
